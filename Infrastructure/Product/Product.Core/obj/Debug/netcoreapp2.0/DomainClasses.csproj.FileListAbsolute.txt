@@ -1,0 +1,13 @@
+E:\Working\letsSuggest\LetsSuggest.API\DomainClasses\bin\Debug\netcoreapp2.0\DomainClasses.deps.json
+E:\Working\letsSuggest\LetsSuggest.API\DomainClasses\bin\Debug\netcoreapp2.0\DomainClasses.dll
+E:\Working\letsSuggest\LetsSuggest.API\DomainClasses\bin\Debug\netcoreapp2.0\DomainClasses.pdb
+E:\Working\letsSuggest\LetsSuggest.API\DomainClasses\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+E:\Working\letsSuggest\LetsSuggest.API\DomainClasses\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+E:\Working\letsSuggest\LetsSuggest.API\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.csprojResolveAssemblyReference.cache
+E:\Working\letsSuggest\LetsSuggest.API\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.csproj.CoreCompileInputs.cache
+E:\Working\letsSuggest\LetsSuggest.API\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.AssemblyInfoInputs.cache
+E:\Working\letsSuggest\LetsSuggest.API\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.AssemblyInfo.cs
+E:\Working\letsSuggest\LetsSuggest.API\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.dll
+E:\Working\letsSuggest\LetsSuggest.API\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.pdb
+E:\Working\letsSuggest\LetsSuggest.API\DomainClasses\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+E:\Working\letsSuggest\LetsSuggest.API\DomainClasses\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml

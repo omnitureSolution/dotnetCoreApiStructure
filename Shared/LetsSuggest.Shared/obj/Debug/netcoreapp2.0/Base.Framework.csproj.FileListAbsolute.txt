@@ -1,0 +1,35 @@
+D:\Working\jainismapi\Base.Framework\bin\Debug\netcoreapp2.0\Base.Framework.deps.json
+D:\Working\jainismapi\Base.Framework\bin\Debug\netcoreapp2.0\Base.Framework.dll
+D:\Working\jainismapi\Base.Framework\bin\Debug\netcoreapp2.0\Base.Framework.pdb
+D:\Working\jainismapi\Base.Framework\obj\Debug\netcoreapp2.0\Base.Framework.csproj.CoreCompileInputs.cache
+D:\Working\jainismapi\Base.Framework\obj\Debug\netcoreapp2.0\Base.Framework.AssemblyInfoInputs.cache
+D:\Working\jainismapi\Base.Framework\obj\Debug\netcoreapp2.0\Base.Framework.AssemblyInfo.cs
+D:\Working\jainismapi\Base.Framework\obj\Debug\netcoreapp2.0\Base.Framework.dll
+D:\Working\jainismapi\Base.Framework\obj\Debug\netcoreapp2.0\Base.Framework.pdb
+D:\working\jain connection\Dev\JainConnectionAPI\Base.Framework\bin\Debug\netcoreapp2.0\Base.Framework.deps.json
+D:\working\jain connection\Dev\JainConnectionAPI\Base.Framework\bin\Debug\netcoreapp2.0\Base.Framework.dll
+D:\working\jain connection\Dev\JainConnectionAPI\Base.Framework\bin\Debug\netcoreapp2.0\Base.Framework.pdb
+D:\working\jain connection\Dev\JainConnectionAPI\Base.Framework\obj\Debug\netcoreapp2.0\Base.Framework.csprojResolveAssemblyReference.cache
+D:\working\jain connection\Dev\JainConnectionAPI\Base.Framework\obj\Debug\netcoreapp2.0\Base.Framework.csproj.CoreCompileInputs.cache
+D:\working\jain connection\Dev\JainConnectionAPI\Base.Framework\obj\Debug\netcoreapp2.0\Base.Framework.AssemblyInfoInputs.cache
+D:\working\jain connection\Dev\JainConnectionAPI\Base.Framework\obj\Debug\netcoreapp2.0\Base.Framework.AssemblyInfo.cs
+D:\working\jain connection\Dev\JainConnectionAPI\Base.Framework\obj\Debug\netcoreapp2.0\Base.Framework.dll
+D:\working\jain connection\Dev\JainConnectionAPI\Base.Framework\obj\Debug\netcoreapp2.0\Base.Framework.pdb
+E:\working\jain connection\Dev\JainConnectionAPI\Base.Framework\bin\Debug\netcoreapp2.0\Base.Framework.deps.json
+E:\working\jain connection\Dev\JainConnectionAPI\Base.Framework\bin\Debug\netcoreapp2.0\Base.Framework.dll
+E:\working\jain connection\Dev\JainConnectionAPI\Base.Framework\bin\Debug\netcoreapp2.0\Base.Framework.pdb
+E:\working\jain connection\Dev\JainConnectionAPI\Base.Framework\obj\Debug\netcoreapp2.0\Base.Framework.csprojResolveAssemblyReference.cache
+E:\working\jain connection\Dev\JainConnectionAPI\Base.Framework\obj\Debug\netcoreapp2.0\Base.Framework.csproj.CoreCompileInputs.cache
+E:\working\jain connection\Dev\JainConnectionAPI\Base.Framework\obj\Debug\netcoreapp2.0\Base.Framework.AssemblyInfoInputs.cache
+E:\working\jain connection\Dev\JainConnectionAPI\Base.Framework\obj\Debug\netcoreapp2.0\Base.Framework.AssemblyInfo.cs
+E:\working\jain connection\Dev\JainConnectionAPI\Base.Framework\obj\Debug\netcoreapp2.0\Base.Framework.dll
+E:\working\jain connection\Dev\JainConnectionAPI\Base.Framework\obj\Debug\netcoreapp2.0\Base.Framework.pdb
+D:\Working\JainConnection\Dev\JainConnectionAPI\Base.Framework\bin\Debug\netcoreapp2.0\Base.Framework.deps.json
+D:\Working\JainConnection\Dev\JainConnectionAPI\Base.Framework\bin\Debug\netcoreapp2.0\Base.Framework.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\Base.Framework\bin\Debug\netcoreapp2.0\Base.Framework.pdb
+D:\Working\JainConnection\Dev\JainConnectionAPI\Base.Framework\obj\Debug\netcoreapp2.0\Base.Framework.csprojResolveAssemblyReference.cache
+D:\Working\JainConnection\Dev\JainConnectionAPI\Base.Framework\obj\Debug\netcoreapp2.0\Base.Framework.csproj.CoreCompileInputs.cache
+D:\Working\JainConnection\Dev\JainConnectionAPI\Base.Framework\obj\Debug\netcoreapp2.0\Base.Framework.AssemblyInfoInputs.cache
+D:\Working\JainConnection\Dev\JainConnectionAPI\Base.Framework\obj\Debug\netcoreapp2.0\Base.Framework.AssemblyInfo.cs
+D:\Working\JainConnection\Dev\JainConnectionAPI\Base.Framework\obj\Debug\netcoreapp2.0\Base.Framework.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\Base.Framework\obj\Debug\netcoreapp2.0\Base.Framework.pdb

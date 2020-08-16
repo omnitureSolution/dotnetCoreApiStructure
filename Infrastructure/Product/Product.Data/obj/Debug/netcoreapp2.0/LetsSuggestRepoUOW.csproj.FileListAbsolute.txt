@@ -1,0 +1,17 @@
+E:\Working\letsSuggest\LetsSuggest.API\LetsSuggestRepoUOW\bin\Debug\netcoreapp2.0\LetsSuggestRepoUOW.deps.json
+E:\Working\letsSuggest\LetsSuggest.API\LetsSuggestRepoUOW\bin\Debug\netcoreapp2.0\LetsSuggestRepoUOW.dll
+E:\Working\letsSuggest\LetsSuggest.API\LetsSuggestRepoUOW\bin\Debug\netcoreapp2.0\LetsSuggestRepoUOW.pdb
+E:\Working\letsSuggest\LetsSuggest.API\LetsSuggestRepoUOW\bin\Debug\netcoreapp2.0\BaseDataLayer.dll
+E:\Working\letsSuggest\LetsSuggest.API\LetsSuggestRepoUOW\bin\Debug\netcoreapp2.0\DomainClasses.dll
+E:\Working\letsSuggest\LetsSuggest.API\LetsSuggestRepoUOW\bin\Debug\netcoreapp2.0\LetsSuggestBoundContext.dll
+E:\Working\letsSuggest\LetsSuggest.API\LetsSuggestRepoUOW\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+E:\Working\letsSuggest\LetsSuggest.API\LetsSuggestRepoUOW\bin\Debug\netcoreapp2.0\BaseDataLayer.pdb
+E:\Working\letsSuggest\LetsSuggest.API\LetsSuggestRepoUOW\bin\Debug\netcoreapp2.0\DomainClasses.pdb
+E:\Working\letsSuggest\LetsSuggest.API\LetsSuggestRepoUOW\bin\Debug\netcoreapp2.0\LetsSuggestBoundContext.pdb
+E:\Working\letsSuggest\LetsSuggest.API\LetsSuggestRepoUOW\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+E:\Working\letsSuggest\LetsSuggest.API\LetsSuggestRepoUOW\obj\Debug\netcoreapp2.0\LetsSuggestRepoUOW.csprojResolveAssemblyReference.cache
+E:\Working\letsSuggest\LetsSuggest.API\LetsSuggestRepoUOW\obj\Debug\netcoreapp2.0\LetsSuggestRepoUOW.csproj.CoreCompileInputs.cache
+E:\Working\letsSuggest\LetsSuggest.API\LetsSuggestRepoUOW\obj\Debug\netcoreapp2.0\LetsSuggestRepoUOW.AssemblyInfoInputs.cache
+E:\Working\letsSuggest\LetsSuggest.API\LetsSuggestRepoUOW\obj\Debug\netcoreapp2.0\LetsSuggestRepoUOW.AssemblyInfo.cs
+E:\Working\letsSuggest\LetsSuggest.API\LetsSuggestRepoUOW\obj\Debug\netcoreapp2.0\LetsSuggestRepoUOW.dll
+E:\Working\letsSuggest\LetsSuggest.API\LetsSuggestRepoUOW\obj\Debug\netcoreapp2.0\LetsSuggestRepoUOW.pdb

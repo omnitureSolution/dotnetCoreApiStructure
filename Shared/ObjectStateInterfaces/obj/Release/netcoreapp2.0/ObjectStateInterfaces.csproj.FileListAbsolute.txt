@@ -1,0 +1,8 @@
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Shared\ObjectStateInterfaces\bin\Release\netcoreapp2.0\ObjectStateInterfaces.deps.json
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Shared\ObjectStateInterfaces\bin\Release\netcoreapp2.0\ObjectStateInterfaces.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Shared\ObjectStateInterfaces\bin\Release\netcoreapp2.0\ObjectStateInterfaces.pdb
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Shared\ObjectStateInterfaces\obj\Release\netcoreapp2.0\ObjectStateInterfaces.csproj.CoreCompileInputs.cache
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Shared\ObjectStateInterfaces\obj\Release\netcoreapp2.0\ObjectStateInterfaces.AssemblyInfoInputs.cache
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Shared\ObjectStateInterfaces\obj\Release\netcoreapp2.0\ObjectStateInterfaces.AssemblyInfo.cs
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Shared\ObjectStateInterfaces\obj\Release\netcoreapp2.0\ObjectStateInterfaces.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Shared\ObjectStateInterfaces\obj\Release\netcoreapp2.0\ObjectStateInterfaces.pdb

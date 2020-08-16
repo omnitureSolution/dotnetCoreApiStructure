@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="JainismUOWExtension.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Shared\LetsSuggest.Shared\LetsSuggest.Shared.csproj" />
+    <ProjectReference Include="..\..\Shared\ObjectStateInterfaces\ObjectStateInterfaces.csproj" />
+  </ItemGroup>
+
+</Project>

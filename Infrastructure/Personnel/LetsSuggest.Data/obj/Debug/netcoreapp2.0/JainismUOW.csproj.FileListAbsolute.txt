@@ -1,0 +1,75 @@
+D:\Working\jainismapi\JainismRepoUOW\bin\Debug\netcoreapp2.0\JainismUOW.deps.json
+D:\Working\jainismapi\JainismRepoUOW\bin\Debug\netcoreapp2.0\JainismUOW.dll
+D:\Working\jainismapi\JainismRepoUOW\bin\Debug\netcoreapp2.0\JainismUOW.pdb
+D:\Working\jainismapi\JainismRepoUOW\bin\Debug\netcoreapp2.0\BaseDataLayer.dll
+D:\Working\jainismapi\JainismRepoUOW\bin\Debug\netcoreapp2.0\DomainClasses.dll
+D:\Working\jainismapi\JainismRepoUOW\bin\Debug\netcoreapp2.0\JainismBoundContext.dll
+D:\Working\jainismapi\JainismRepoUOW\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+D:\Working\jainismapi\JainismRepoUOW\bin\Debug\netcoreapp2.0\BaseDataLayer.pdb
+D:\Working\jainismapi\JainismRepoUOW\bin\Debug\netcoreapp2.0\DomainClasses.pdb
+D:\Working\jainismapi\JainismRepoUOW\bin\Debug\netcoreapp2.0\JainismBoundContext.pdb
+D:\Working\jainismapi\JainismRepoUOW\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+D:\Working\jainismapi\JainismRepoUOW\obj\Debug\netcoreapp2.0\JainismUOW.csprojResolveAssemblyReference.cache
+D:\Working\jainismapi\JainismRepoUOW\obj\Debug\netcoreapp2.0\JainismUOW.csproj.CoreCompileInputs.cache
+D:\Working\jainismapi\JainismRepoUOW\obj\Debug\netcoreapp2.0\JainismUOW.AssemblyInfoInputs.cache
+D:\Working\jainismapi\JainismRepoUOW\obj\Debug\netcoreapp2.0\JainismUOW.AssemblyInfo.cs
+D:\Working\jainismapi\JainismRepoUOW\obj\Debug\netcoreapp2.0\JainismUOW.dll
+D:\Working\jainismapi\JainismRepoUOW\obj\Debug\netcoreapp2.0\JainismUOW.pdb
+D:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\JainismUOW.deps.json
+D:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\JainismUOW.dll
+D:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\JainismUOW.pdb
+D:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\BaseDataLayer.dll
+D:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\DomainClasses.dll
+D:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\JainismBoundContext.dll
+D:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+D:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\BaseDataLayer.pdb
+D:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\DomainClasses.pdb
+D:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\JainismBoundContext.pdb
+D:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+D:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\obj\Debug\netcoreapp2.0\JainismUOW.csprojResolveAssemblyReference.cache
+D:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\obj\Debug\netcoreapp2.0\JainismUOW.csproj.CoreCompileInputs.cache
+D:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\obj\Debug\netcoreapp2.0\JainismUOW.AssemblyInfoInputs.cache
+D:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\obj\Debug\netcoreapp2.0\JainismUOW.AssemblyInfo.cs
+D:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\obj\Debug\netcoreapp2.0\JainismUOW.dll
+D:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\obj\Debug\netcoreapp2.0\JainismUOW.pdb
+D:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\Base.Framework.dll
+D:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\Base.Framework.pdb
+E:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\JainismUOW.deps.json
+E:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\JainismUOW.dll
+E:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\JainismUOW.pdb
+E:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\Base.Framework.dll
+E:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\BaseDataLayer.dll
+E:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\DomainClasses.dll
+E:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\JainismBoundContext.dll
+E:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+E:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\Base.Framework.pdb
+E:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\BaseDataLayer.pdb
+E:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\DomainClasses.pdb
+E:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\JainismBoundContext.pdb
+E:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+E:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\obj\Debug\netcoreapp2.0\JainismUOW.csprojResolveAssemblyReference.cache
+E:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\obj\Debug\netcoreapp2.0\JainismUOW.csproj.CoreCompileInputs.cache
+E:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\obj\Debug\netcoreapp2.0\JainismUOW.AssemblyInfoInputs.cache
+E:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\obj\Debug\netcoreapp2.0\JainismUOW.AssemblyInfo.cs
+E:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\obj\Debug\netcoreapp2.0\JainismUOW.csproj.CopyComplete
+E:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\obj\Debug\netcoreapp2.0\JainismUOW.dll
+E:\working\jain connection\Dev\JainConnectionAPI\JainismRepoUOW\obj\Debug\netcoreapp2.0\JainismUOW.pdb
+D:\Working\JainConnection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\JainismUOW.deps.json
+D:\Working\JainConnection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\JainismUOW.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\JainismUOW.pdb
+D:\Working\JainConnection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\Base.Framework.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\BaseDataLayer.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\DomainClasses.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\JainismBoundContext.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\Base.Framework.pdb
+D:\Working\JainConnection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\BaseDataLayer.pdb
+D:\Working\JainConnection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\DomainClasses.pdb
+D:\Working\JainConnection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\JainismBoundContext.pdb
+D:\Working\JainConnection\Dev\JainConnectionAPI\JainismRepoUOW\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+D:\Working\JainConnection\Dev\JainConnectionAPI\JainismRepoUOW\obj\Debug\netcoreapp2.0\JainismUOW.csprojResolveAssemblyReference.cache
+D:\Working\JainConnection\Dev\JainConnectionAPI\JainismRepoUOW\obj\Debug\netcoreapp2.0\JainismUOW.csproj.CoreCompileInputs.cache
+D:\Working\JainConnection\Dev\JainConnectionAPI\JainismRepoUOW\obj\Debug\netcoreapp2.0\JainismUOW.AssemblyInfoInputs.cache
+D:\Working\JainConnection\Dev\JainConnectionAPI\JainismRepoUOW\obj\Debug\netcoreapp2.0\JainismUOW.AssemblyInfo.cs
+D:\Working\JainConnection\Dev\JainConnectionAPI\JainismRepoUOW\obj\Debug\netcoreapp2.0\JainismUOW.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\JainismRepoUOW\obj\Debug\netcoreapp2.0\JainismUOW.pdb

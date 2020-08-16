@@ -1,0 +1,13 @@
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Core\bin\Release\netcoreapp2.0\Jainism.Core.deps.json
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Core\bin\Release\netcoreapp2.0\Jainism.Core.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Core\bin\Release\netcoreapp2.0\Jainism.Core.pdb
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Core\bin\Release\netcoreapp2.0\Jainism.Shared.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Core\bin\Release\netcoreapp2.0\ObjectStateInterfaces.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Core\bin\Release\netcoreapp2.0\Jainism.Shared.pdb
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Core\bin\Release\netcoreapp2.0\ObjectStateInterfaces.pdb
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Core\obj\Release\netcoreapp2.0\Jainism.Core.csprojResolveAssemblyReference.cache
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Core\obj\Release\netcoreapp2.0\Jainism.Core.csproj.CoreCompileInputs.cache
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Core\obj\Release\netcoreapp2.0\Jainism.Core.AssemblyInfoInputs.cache
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Core\obj\Release\netcoreapp2.0\Jainism.Core.AssemblyInfo.cs
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Core\obj\Release\netcoreapp2.0\Jainism.Core.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Core\obj\Release\netcoreapp2.0\Jainism.Core.pdb

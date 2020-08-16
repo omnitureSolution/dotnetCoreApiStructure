@@ -1,0 +1,15 @@
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Context\bin\Release\netcoreapp2.0\Jainism.Context.deps.json
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Context\bin\Release\netcoreapp2.0\Jainism.Context.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Context\bin\Release\netcoreapp2.0\Jainism.Context.pdb
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Context\bin\Release\netcoreapp2.0\Jainism.Core.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Context\bin\Release\netcoreapp2.0\Jainism.Shared.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Context\bin\Release\netcoreapp2.0\ObjectStateInterfaces.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Context\bin\Release\netcoreapp2.0\Jainism.Shared.pdb
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Context\bin\Release\netcoreapp2.0\ObjectStateInterfaces.pdb
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Context\bin\Release\netcoreapp2.0\Jainism.Core.pdb
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Context\obj\Release\netcoreapp2.0\Jainism.Context.csprojResolveAssemblyReference.cache
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Context\obj\Release\netcoreapp2.0\Jainism.Context.csproj.CoreCompileInputs.cache
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Context\obj\Release\netcoreapp2.0\Jainism.Context.AssemblyInfoInputs.cache
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Context\obj\Release\netcoreapp2.0\Jainism.Context.AssemblyInfo.cs
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Context\obj\Release\netcoreapp2.0\Jainism.Context.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Infrastructure\Jainism.Context\obj\Release\netcoreapp2.0\Jainism.Context.pdb

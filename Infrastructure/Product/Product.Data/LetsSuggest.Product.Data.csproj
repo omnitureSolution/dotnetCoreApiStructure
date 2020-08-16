@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Repository\GenericRepository.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\LetsSuggest.Context\LetsSuggest.Context.csproj" />
+    <ProjectReference Include="..\Product.Core\LetsSuggest.Product.Core.csproj" />
+  </ItemGroup>
+
+</Project>

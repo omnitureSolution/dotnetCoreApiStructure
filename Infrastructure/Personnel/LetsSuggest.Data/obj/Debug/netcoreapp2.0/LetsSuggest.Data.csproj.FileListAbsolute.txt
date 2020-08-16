@@ -1,0 +1,17 @@
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\LetsSuggest.Data\bin\Debug\netcoreapp2.0\LetsSuggest.Data.deps.json
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\LetsSuggest.Data\bin\Debug\netcoreapp2.0\LetsSuggest.Data.dll
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\LetsSuggest.Data\bin\Debug\netcoreapp2.0\LetsSuggest.Data.pdb
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\LetsSuggest.Data\bin\Debug\netcoreapp2.0\LetsSuggest.Context.dll
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\LetsSuggest.Data\bin\Debug\netcoreapp2.0\LetsSuggest.Core.dll
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\LetsSuggest.Data\bin\Debug\netcoreapp2.0\LetsSuggest.Shared.dll
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\LetsSuggest.Data\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\LetsSuggest.Data\bin\Debug\netcoreapp2.0\LetsSuggest.Shared.pdb
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\LetsSuggest.Data\bin\Debug\netcoreapp2.0\LetsSuggest.Context.pdb
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\LetsSuggest.Data\bin\Debug\netcoreapp2.0\LetsSuggest.Core.pdb
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\LetsSuggest.Data\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\LetsSuggest.Data\obj\Debug\netcoreapp2.0\LetsSuggest.Data.csprojResolveAssemblyReference.cache
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\LetsSuggest.Data\obj\Debug\netcoreapp2.0\LetsSuggest.Data.csproj.CoreCompileInputs.cache
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\LetsSuggest.Data\obj\Debug\netcoreapp2.0\LetsSuggest.Data.AssemblyInfoInputs.cache
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\LetsSuggest.Data\obj\Debug\netcoreapp2.0\LetsSuggest.Data.AssemblyInfo.cs
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\LetsSuggest.Data\obj\Debug\netcoreapp2.0\LetsSuggest.Data.dll
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\LetsSuggest.Data\obj\Debug\netcoreapp2.0\LetsSuggest.Data.pdb

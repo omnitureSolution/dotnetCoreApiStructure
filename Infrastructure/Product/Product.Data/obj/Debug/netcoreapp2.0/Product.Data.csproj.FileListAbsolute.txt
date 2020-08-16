@@ -1,0 +1,17 @@
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Data\obj\Debug\netcoreapp2.0\Product.Data.csprojResolveAssemblyReference.cache
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Data\obj\Debug\netcoreapp2.0\Product.Data.csproj.CoreCompileInputs.cache
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Data\obj\Debug\netcoreapp2.0\Product.Data.AssemblyInfoInputs.cache
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Data\obj\Debug\netcoreapp2.0\Product.Data.AssemblyInfo.cs
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Data\bin\Debug\netcoreapp2.0\Product.Data.deps.json
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Data\bin\Debug\netcoreapp2.0\Product.Data.dll
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Data\bin\Debug\netcoreapp2.0\Product.Data.pdb
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Data\bin\Debug\netcoreapp2.0\LetsSuggest.Context.dll
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Data\bin\Debug\netcoreapp2.0\LetsSuggest.Shared.dll
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Data\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Data\bin\Debug\netcoreapp2.0\Product.Core.dll
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Data\bin\Debug\netcoreapp2.0\LetsSuggest.Context.pdb
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Data\bin\Debug\netcoreapp2.0\Product.Core.pdb
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Data\bin\Debug\netcoreapp2.0\LetsSuggest.Shared.pdb
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Data\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Data\obj\Debug\netcoreapp2.0\Product.Data.dll
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Data\obj\Debug\netcoreapp2.0\Product.Data.pdb

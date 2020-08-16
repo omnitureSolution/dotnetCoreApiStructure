@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Interfaces\IBussSpecializationInterface.cs" />
+    <Compile Remove="Interfaces\IImageDataInterface.cs" />
+    <Compile Remove="Lstfilters.cs" />
+    <Compile Remove="Model\BusinessSpecialization.cs" />
+    <Compile Remove="Model\BussCategory.cs" />
+    <Compile Remove="Model\Eventscategory.cs" />
+    <Compile Remove="Model\ImageData.cs" />
+    <Compile Remove="Model\LstLocation.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="7.5.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Shared\LetsSuggest.Shared\LetsSuggest.Shared.csproj" />
+    <ProjectReference Include="..\..\..\Shared\ObjectStateInterfaces\ObjectStateInterfaces.csproj" />
+    <ProjectReference Include="..\..\LetsSuggest.Context\LetsSuggest.Context.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.EntityFrameworkCore">
+      <HintPath>C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.entityframeworkcore\2.0.1\lib\netstandard2.0\Microsoft.EntityFrameworkCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>C:\Program Files\dotnet\sdk\NuGetFallbackFolder\newtonsoft.json\10.0.1\lib\netstandard1.3\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

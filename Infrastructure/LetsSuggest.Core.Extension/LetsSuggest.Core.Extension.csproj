@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LetsSuggest.Context\LetsSuggest.Context.csproj" />
+    <ProjectReference Include="..\Personnel\LetsSuggest.Core\LetsSuggest.Personnel.Core.csproj" />
+    <ProjectReference Include="..\Personnel\LetsSuggest.Data\LetsSuggest.Personnel.Data.csproj" />
+    <ProjectReference Include="..\Product\Product.Core\LetsSuggest.Product.Core.csproj" />
+    <ProjectReference Include="..\Product\Product.Data\LetsSuggest.Product.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions">
+      <HintPath>C:\Users\Jignesh\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\2.0.0\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

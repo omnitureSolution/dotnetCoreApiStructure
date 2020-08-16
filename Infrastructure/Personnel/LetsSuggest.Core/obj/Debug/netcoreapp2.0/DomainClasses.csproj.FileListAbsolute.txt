@@ -1,0 +1,53 @@
+D:\Working\jainismapi\DomainClasses\bin\Debug\netcoreapp2.0\DomainClasses.deps.json
+D:\Working\jainismapi\DomainClasses\bin\Debug\netcoreapp2.0\DomainClasses.dll
+D:\Working\jainismapi\DomainClasses\bin\Debug\netcoreapp2.0\DomainClasses.pdb
+D:\Working\jainismapi\DomainClasses\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+D:\Working\jainismapi\DomainClasses\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+D:\Working\jainismapi\DomainClasses\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+D:\Working\jainismapi\DomainClasses\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
+D:\Working\jainismapi\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.csprojResolveAssemblyReference.cache
+D:\Working\jainismapi\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.csproj.CoreCompileInputs.cache
+D:\Working\jainismapi\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.AssemblyInfoInputs.cache
+D:\Working\jainismapi\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.AssemblyInfo.cs
+D:\Working\jainismapi\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.dll
+D:\Working\jainismapi\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.pdb
+D:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.csprojResolveAssemblyReference.cache
+D:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.csproj.CoreCompileInputs.cache
+D:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.AssemblyInfoInputs.cache
+D:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.AssemblyInfo.cs
+D:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.dll
+D:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.pdb
+D:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\bin\Debug\netcoreapp2.0\DomainClasses.deps.json
+D:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\bin\Debug\netcoreapp2.0\DomainClasses.dll
+D:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\bin\Debug\netcoreapp2.0\DomainClasses.pdb
+D:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+D:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+D:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\bin\Debug\netcoreapp2.0\Base.Framework.dll
+D:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\bin\Debug\netcoreapp2.0\Base.Framework.pdb
+E:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\bin\Debug\netcoreapp2.0\DomainClasses.deps.json
+E:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\bin\Debug\netcoreapp2.0\DomainClasses.dll
+E:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\bin\Debug\netcoreapp2.0\DomainClasses.pdb
+E:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\bin\Debug\netcoreapp2.0\Base.Framework.dll
+E:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+E:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\bin\Debug\netcoreapp2.0\Base.Framework.pdb
+E:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+E:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.csprojResolveAssemblyReference.cache
+E:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.csproj.CoreCompileInputs.cache
+E:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.AssemblyInfoInputs.cache
+E:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.AssemblyInfo.cs
+E:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.csproj.CopyComplete
+E:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.dll
+E:\working\jain connection\Dev\JainConnectionAPI\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.pdb
+D:\Working\JainConnection\Dev\JainConnectionAPI\DomainClasses\bin\Debug\netcoreapp2.0\DomainClasses.deps.json
+D:\Working\JainConnection\Dev\JainConnectionAPI\DomainClasses\bin\Debug\netcoreapp2.0\DomainClasses.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\DomainClasses\bin\Debug\netcoreapp2.0\DomainClasses.pdb
+D:\Working\JainConnection\Dev\JainConnectionAPI\DomainClasses\bin\Debug\netcoreapp2.0\Base.Framework.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\DomainClasses\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\DomainClasses\bin\Debug\netcoreapp2.0\Base.Framework.pdb
+D:\Working\JainConnection\Dev\JainConnectionAPI\DomainClasses\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+D:\Working\JainConnection\Dev\JainConnectionAPI\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.csprojResolveAssemblyReference.cache
+D:\Working\JainConnection\Dev\JainConnectionAPI\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.csproj.CoreCompileInputs.cache
+D:\Working\JainConnection\Dev\JainConnectionAPI\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.AssemblyInfoInputs.cache
+D:\Working\JainConnection\Dev\JainConnectionAPI\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.AssemblyInfo.cs
+D:\Working\JainConnection\Dev\JainConnectionAPI\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\DomainClasses\obj\Debug\netcoreapp2.0\DomainClasses.pdb

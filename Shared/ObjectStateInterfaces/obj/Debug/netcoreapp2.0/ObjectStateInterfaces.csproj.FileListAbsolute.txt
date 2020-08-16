@@ -1,0 +1,62 @@
+D:\Working\jainismapi\ObjectStateInterfaces\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.deps.json
+D:\Working\jainismapi\ObjectStateInterfaces\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+D:\Working\jainismapi\ObjectStateInterfaces\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+D:\Working\jainismapi\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.csproj.CoreCompileInputs.cache
+D:\Working\jainismapi\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.AssemblyInfoInputs.cache
+D:\Working\jainismapi\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.AssemblyInfo.cs
+D:\Working\jainismapi\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+D:\Working\jainismapi\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+D:\working\jain connection\Dev\JainConnectionAPI\ObjectStateInterfaces\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.deps.json
+D:\working\jain connection\Dev\JainConnectionAPI\ObjectStateInterfaces\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+D:\working\jain connection\Dev\JainConnectionAPI\ObjectStateInterfaces\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+D:\working\jain connection\Dev\JainConnectionAPI\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.csprojResolveAssemblyReference.cache
+D:\working\jain connection\Dev\JainConnectionAPI\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.csproj.CoreCompileInputs.cache
+D:\working\jain connection\Dev\JainConnectionAPI\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.AssemblyInfoInputs.cache
+D:\working\jain connection\Dev\JainConnectionAPI\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.AssemblyInfo.cs
+D:\working\jain connection\Dev\JainConnectionAPI\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+D:\working\jain connection\Dev\JainConnectionAPI\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+E:\working\jain connection\Dev\JainConnectionAPI\ObjectStateInterfaces\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.deps.json
+E:\working\jain connection\Dev\JainConnectionAPI\ObjectStateInterfaces\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+E:\working\jain connection\Dev\JainConnectionAPI\ObjectStateInterfaces\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+E:\working\jain connection\Dev\JainConnectionAPI\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.csprojResolveAssemblyReference.cache
+E:\working\jain connection\Dev\JainConnectionAPI\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.csproj.CoreCompileInputs.cache
+E:\working\jain connection\Dev\JainConnectionAPI\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.AssemblyInfoInputs.cache
+E:\working\jain connection\Dev\JainConnectionAPI\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.AssemblyInfo.cs
+E:\working\jain connection\Dev\JainConnectionAPI\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+E:\working\jain connection\Dev\JainConnectionAPI\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+D:\Working\JainConnection\Dev\JainConnectionAPI\ObjectStateInterfaces\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.deps.json
+D:\Working\JainConnection\Dev\JainConnectionAPI\ObjectStateInterfaces\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\ObjectStateInterfaces\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+D:\Working\JainConnection\Dev\JainConnectionAPI\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.csprojResolveAssemblyReference.cache
+D:\Working\JainConnection\Dev\JainConnectionAPI\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.csproj.CoreCompileInputs.cache
+D:\Working\JainConnection\Dev\JainConnectionAPI\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.AssemblyInfoInputs.cache
+D:\Working\JainConnection\Dev\JainConnectionAPI\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.AssemblyInfo.cs
+D:\Working\JainConnection\Dev\JainConnectionAPI\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Shared\ObjectStateInterfaces\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.deps.json
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Shared\ObjectStateInterfaces\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Shared\ObjectStateInterfaces\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Shared\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.csprojResolveAssemblyReference.cache
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Shared\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.csproj.CoreCompileInputs.cache
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Shared\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.AssemblyInfoInputs.cache
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Shared\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.AssemblyInfo.cs
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Shared\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+D:\Working\JainConnection\Dev\JainConnectionAPI\src\Shared\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+E:\Working\Code\JainConnectionAPI\src\Shared\ObjectStateInterfaces\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.deps.json
+E:\Working\Code\JainConnectionAPI\src\Shared\ObjectStateInterfaces\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+E:\Working\Code\JainConnectionAPI\src\Shared\ObjectStateInterfaces\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+E:\Working\Code\JainConnectionAPI\src\Shared\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.csproj.CoreCompileInputs.cache
+E:\Working\Code\JainConnectionAPI\src\Shared\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.AssemblyInfoInputs.cache
+E:\Working\Code\JainConnectionAPI\src\Shared\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.AssemblyInfo.cs
+E:\Working\Code\JainConnectionAPI\src\Shared\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+E:\Working\Code\JainConnectionAPI\src\Shared\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+E:\Working\Code\JainConnectionAPI\src\Shared\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.csprojResolveAssemblyReference.cache
+D:\My_Work\company\JainConnectionAPI\src\Shared\ObjectStateInterfaces\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.deps.json
+D:\My_Work\company\JainConnectionAPI\src\Shared\ObjectStateInterfaces\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+D:\My_Work\company\JainConnectionAPI\src\Shared\ObjectStateInterfaces\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+D:\My_Work\company\JainConnectionAPI\src\Shared\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.csprojResolveAssemblyReference.cache
+D:\My_Work\company\JainConnectionAPI\src\Shared\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.csproj.CoreCompileInputs.cache
+D:\My_Work\company\JainConnectionAPI\src\Shared\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.AssemblyInfoInputs.cache
+D:\My_Work\company\JainConnectionAPI\src\Shared\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.AssemblyInfo.cs
+D:\My_Work\company\JainConnectionAPI\src\Shared\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+D:\My_Work\company\JainConnectionAPI\src\Shared\ObjectStateInterfaces\obj\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb

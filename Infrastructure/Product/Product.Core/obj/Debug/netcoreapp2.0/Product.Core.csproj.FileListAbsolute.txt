@@ -1,0 +1,15 @@
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Core\obj\Debug\netcoreapp2.0\Product.Core.csprojResolveAssemblyReference.cache
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Core\obj\Debug\netcoreapp2.0\Product.Core.csproj.CoreCompileInputs.cache
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Core\obj\Debug\netcoreapp2.0\Product.Core.AssemblyInfoInputs.cache
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Core\obj\Debug\netcoreapp2.0\Product.Core.AssemblyInfo.cs
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Core\bin\Debug\netcoreapp2.0\Product.Core.deps.json
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Core\bin\Debug\netcoreapp2.0\Product.Core.dll
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Core\bin\Debug\netcoreapp2.0\Product.Core.pdb
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Core\bin\Debug\netcoreapp2.0\LetsSuggest.Context.dll
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Core\bin\Debug\netcoreapp2.0\LetsSuggest.Shared.dll
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Core\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.dll
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Core\bin\Debug\netcoreapp2.0\ObjectStateInterfaces.pdb
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Core\bin\Debug\netcoreapp2.0\LetsSuggest.Context.pdb
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Core\bin\Debug\netcoreapp2.0\LetsSuggest.Shared.pdb
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Core\obj\Debug\netcoreapp2.0\Product.Core.dll
+E:\Working\Code\JainConnectionAPI\src\Infrastructure\Product\Product.Core\obj\Debug\netcoreapp2.0\Product.Core.pdb
